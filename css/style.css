@@ -78,7 +78,7 @@ body {
 }
 
 .physician {
-  background-image: url("/img/rectangle.png");
+  background-image: url("./img/rectangle.png");
   height: 647px;
 }
 .physician__content {
@@ -209,7 +209,7 @@ body {
   justify-content: center;
   padding-left: 403px;
   padding-top: 19px;
-  background-image: url("/img/benefits.png");
+  background-image: url("./img/benefits.png");
   background-repeat: no-repeat;
   width: 877px;
   height: 504px;
